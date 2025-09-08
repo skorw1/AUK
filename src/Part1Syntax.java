@@ -26,6 +26,7 @@ public class Part1Syntax {
 
         System.out.println(str + " + Hard string" + " = Middle string");
         System.out.println(str.contains("Simple"));
+        System.out.println(str.toLowerCase());
 
         // Part 1.4
         Scanner scanner = new Scanner(System.in);
